@@ -70,10 +70,10 @@ MH  - Computer Simulation
 EDAT- 2025/12/03 19:14      
 MHDA- 2025/12/03 19:15      
 CRDT- 2025/12/03 13:47      
-PHST- 2025/12/03 19:15 [medline]      
-PHST- 2025/12/03 19:14 [pubmed]
-PHST- 2025/12/03 13:47 [entrez]
-AID - 10.1109/EMBC58623.2025.11254501 [doi]
-PST - ppublish
+PHST- 2025/12/03 19:15 [medline]            
+PHST- 2025/12/03 19:14 [pubmed]      
+PHST- 2025/12/03 13:47 [entrez]      
+AID - 10.1109/EMBC58623.2025.11254501 [doi]      
+PST - ppublish      
 SO  - Annu Int Conf IEEE Eng Med Biol Soc. 2025 Jul;2025:1-7. doi: 
-      10.1109/EMBC58623.2025.11254501.
+      10.1109/EMBC58623.2025.11254501.      
