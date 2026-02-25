@@ -1,17 +1,17 @@
 # A Temporal-Dynamic Neural-SIR Approach based on LSTM for Stochastic Infectious Disease Forecasting
 PMID- 41336628                                                                                                                                                                                    
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20251203
-LR  - 20251203
-IS  - 2694-0604 (Electronic)
-IS  - 2375-7477 (Linking)
-VI  - 2025
-DP  - 2025 Jul
+OWN - NLM      
+STAT- MEDLINE      
+DCOM- 20251203      
+LR  - 20251203      
+IS  - 2694-0604 (Electronic)      
+IS  - 2375-7477 (Linking)      
+VI  - 2025      
+DP  - 2025 Jul      
 TI  - A Temporal-Dynamic Neural-SIR Approach based on LSTM for Stochastic Infectious 
-      Disease Forecasting.
-PG  - 1-7
-LID - 10.1109/EMBC58623.2025.11254501 [doi]
+      Disease Forecasting.      
+PG  - 1-7      
+LID - 10.1109/EMBC58623.2025.11254501 [doi]      
 AB  - Accurate forecasting of infectious disease out-breaks is crucial for timely 
       public health interventions and optimized resource allocation. Unlike traditional 
       epidemiological models such as the Susceptible-Infected-Recovered (SIR) 
@@ -43,34 +43,34 @@ AB  - Accurate forecasting of infectious disease out-breaks is crucial for timel
       allocation. This study introduces Neural-SIR, a temporal-dynamic framework that 
       evaluates the reliability and robustness of epidemic forecasting and modeling 
       approaches against inter-regional heterogeneity and intra-population variability, 
-      supporting better decision making in real-world healthcare settings.
-FAU - Zahri, Sofia
-AU  - Zahri S
-FAU - Bajaj, Nikesh
-AU  - Bajaj N
-FAU - Carrion, Jesus Requena
-AU  - Carrion JR
-LA  - eng
-PT  - Journal Article
-PL  - United States
-TA  - Annu Int Conf IEEE Eng Med Biol Soc
+      supporting better decision making in real-world healthcare settings.      
+FAU - Zahri, Sofia      
+AU  - Zahri S      
+FAU - Bajaj, Nikesh      
+AU  - Bajaj N      
+FAU - Carrion, Jesus Requena      
+AU  - Carrion JR      
+LA  - eng      
+PT  - Journal Article      
+PL  - United States      
+TA  - Annu Int Conf IEEE Eng Med Biol Soc      
 JT  - Annual International Conference of the IEEE Engineering in Medicine and Biology 
       Society. IEEE Engineering in Medicine and Biology Society. Annual International 
-      Conference
-JID - 101763872
-SB  - IM
-MH  - Humans
-MH  - Stochastic Processes
-MH  - Forecasting/methods
-MH  - *Communicable Diseases/epidemiology
-MH  - *Neural Networks, Computer
-MH  - Machine Learning
-MH  - Reproducibility of Results
-MH  - Computer Simulation
-EDAT- 2025/12/03 19:14
-MHDA- 2025/12/03 19:15
-CRDT- 2025/12/03 13:47
-PHST- 2025/12/03 19:15 [medline]
+      Conference      
+JID - 101763872      
+SB  - IM      
+MH  - Humans      
+MH  - Stochastic Processes      
+MH  - Forecasting/methods      
+MH  - *Communicable Diseases/epidemiology      
+MH  - *Neural Networks, Computer      
+MH  - Machine Learning      
+MH  - Reproducibility of Results      
+MH  - Computer Simulation      
+EDAT- 2025/12/03 19:14      
+MHDA- 2025/12/03 19:15      
+CRDT- 2025/12/03 13:47      
+PHST- 2025/12/03 19:15 [medline]      
 PHST- 2025/12/03 19:14 [pubmed]
 PHST- 2025/12/03 13:47 [entrez]
 AID - 10.1109/EMBC58623.2025.11254501 [doi]
