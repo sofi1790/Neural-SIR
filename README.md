@@ -1,5 +1,5 @@
 # A Temporal-Dynamic Neural-SIR Approach based on LSTM for Stochastic Infectious Disease Forecasting
-PMID- 41336628
+PMID- 41336628                                                                                                                                                                                    
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20251203
